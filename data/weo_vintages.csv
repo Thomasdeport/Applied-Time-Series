@@ -1,0 +1,10 @@
+vintage,year,NGDP_RPCH,PCPIPCH,LUR,BCA_NGDPD,source
+2023-10,2022,2.062,7.986,3.642,-3.816,IMF WEO Oct-2023 database (via DBnomics IMF/WEO:2023-10)
+2023-10,2023,2.085,4.084,3.569,-2.951,IMF WEO Oct-2023 database (via DBnomics IMF/WEO:2023-10)
+2023-10,2024,1.475,2.759,3.849,-2.800,IMF WEO Oct-2023 database (via DBnomics IMF/WEO:2023-10)
+2023-10,2025,1.818,2.433,3.894,-2.679,IMF WEO Oct-2023 database (via DBnomics IMF/WEO:2023-10)
+2023-10,2026,2.064,2.155,3.636,-2.557,IMF WEO Oct-2023 database (via DBnomics IMF/WEO:2023-10)
+2026-04,2024,2.793,2.952,4.025,-4.046,IMF WEO Apr-2026 database (https://api.imf.org/external/sdmx/3.0/data/dataflow/IMF.RES/WEO/9.0.0/USA.NGDP_RPCH+PCPIPCH+LUR+BCA_NGDPD.A?asOf=2026-05-15T00:00:00Z)
+2026-04,2025,2.117,2.73,4.279,-3.627,IMF WEO Apr-2026 database (https://api.imf.org/external/sdmx/3.0/data/dataflow/IMF.RES/WEO/9.0.0/USA.NGDP_RPCH+PCPIPCH+LUR+BCA_NGDPD.A?asOf=2026-05-15T00:00:00Z)
+2026-04,2026,2.324,3.228,4.376,-3.705,IMF WEO Apr-2026 database (https://api.imf.org/external/sdmx/3.0/data/dataflow/IMF.RES/WEO/9.0.0/USA.NGDP_RPCH+PCPIPCH+LUR+BCA_NGDPD.A?asOf=2026-05-15T00:00:00Z)
+2026-04,2027,2.1,2.141,4.249,-3.634,IMF WEO Apr-2026 database (https://api.imf.org/external/sdmx/3.0/data/dataflow/IMF.RES/WEO/9.0.0/USA.NGDP_RPCH+PCPIPCH+LUR+BCA_NGDPD.A?asOf=2026-05-15T00:00:00Z)

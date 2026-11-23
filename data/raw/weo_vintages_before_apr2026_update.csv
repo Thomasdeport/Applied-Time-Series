@@ -1,0 +1,10 @@
+vintage,year,NGDP_RPCH,PCPIPCH,LUR,BCA_NGDPD,source
+2023-10,2022,2.062,7.986,3.642,-3.816,IMF WEO Oct-2023 database (via DBnomics IMF/WEO:2023-10)
+2023-10,2023,2.085,4.084,3.569,-2.951,IMF WEO Oct-2023 database (via DBnomics IMF/WEO:2023-10)
+2023-10,2024,1.475,2.759,3.849,-2.800,IMF WEO Oct-2023 database (via DBnomics IMF/WEO:2023-10)
+2023-10,2025,1.818,2.433,3.894,-2.679,IMF WEO Oct-2023 database (via DBnomics IMF/WEO:2023-10)
+2023-10,2026,2.064,2.155,3.636,-2.557,IMF WEO Oct-2023 database (via DBnomics IMF/WEO:2023-10)
+2026-04,2024,2.8,3.0,4.0,-4.0,IMF WEO Apr-2026 Statistical Appendix tables A2/A7/A10; LUR: FRED annual mean
+2026-04,2025,2.1,2.7,4.3,-3.6,IMF WEO Apr-2026 Table 1.1 / Stat. App.; LUR: FRED annual mean (realised)
+2026-04,2026,2.3,3.2,4.3,-3.7,IMF WEO Apr-2026 Table 1.1 / Stat. App.; LUR: IMF 2026 Article IV (Apr-1 2026) Q4 avg
+2026-04,2027,2.1,2.1,3.9,-3.6,IMF WEO Apr-2026 Table 1.1 / Stat. App.; LUR: IMF 2026 Article IV (Apr-1 2026) Q4 avg

@@ -1,0 +1,1 @@
+{"_meta":{"args":{"align_periods":false,"dataset_code":"WEO:2026-04","dimensions":{},"facets":false,"format":"json","limit":1000,"metadata":true,"observations":true,"offset":0,"provider_code":"IMF","q":"","series_code":"USA.NGDP_RPCH+USA.PCPIPCH+USA.LUR+USA.BCA_NGDPD"},"version":"22.1.17"},"message":"Dataset 'IMF\/WEO:2026-04' not found"}
